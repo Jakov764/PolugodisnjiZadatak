@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\bin\Debug\polugodisnjiZadatakJakov.exe.config
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\bin\Debug\polugodisnjiZadatakJakov.exe
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\bin\Debug\polugodisnjiZadatakJakov.pdb
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\obj\Debug\polugodisnjiZadatakJakov.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\obj\Debug\polugodisnjiZadatakJakov.Form1.resources
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\obj\Debug\polugodisnjiZadatakJakov.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\obj\Debug\polugodisnjiZadatakJakov.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\obj\Debug\polugodisnjiZadatakJakov.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\obj\Debug\polugodisnjiZadatakJakov.exe
+C:\Users\Lenovo\source\repos\polugodisnjiZadatakJakov\polugodisnjiZadatakJakov\obj\Debug\polugodisnjiZadatakJakov.pdb
